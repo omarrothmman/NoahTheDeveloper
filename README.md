@@ -1,6 +1,6 @@
 # NoahTheDeveloper
 Exploit an ubuntu machine of a careless, noob wordpress developer and try to take root privilege .
-# Installation guide 
+# Installation tips 
 Here are the [machine files](https://terabox.com/s/1Z87_lE1Yy1Zj6lEnCRiliA)  
 
 Configure the virtual machine network adapter to either host-only or bridged   
