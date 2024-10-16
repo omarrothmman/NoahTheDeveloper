@@ -10,4 +10,5 @@ if host only: make sure your attacking machine is also configured host only in t
 if bridged: scan your network to know the IP address of the machine and look for an ubuntu machine running FTP at port 2121    
 
 # IMPORTANT
-apache server is running on the machine and it is slow by purpose keep that in mind
+apache server is running on the machine and it is slow by purpose keep that in mind.  
+There are 3 flags: user1.txt, user2.txt, root.txt
